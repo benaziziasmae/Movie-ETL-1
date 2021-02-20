@@ -1,4 +1,4 @@
-# Movie-ETL-1
+# Movies-ETL
 
 ## Overview of the project 
 
